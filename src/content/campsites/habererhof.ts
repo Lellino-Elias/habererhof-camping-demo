@@ -170,7 +170,7 @@ const habererhof: CampsiteConfig = {
     images: [
       { src: `${IMG}/hero-4629dc3323.webp`, alt: "Blumengeschmückte Terrasse am Habererhof mit Blick auf die Virgener Berge" },
       { src: `${IMG}/hero-b0bfad498d.webp`, alt: "Das Virgental mit den schneebedeckten Gipfeln der Hohen Tauern" },
-      { src: `${IMG}/gallery-3eb9448c78.webp`, alt: "Hofeigene Produkte vom Habererhof: Milch, Speck und Kartoffeln" },
+      { src: `${IMG}/gallery-a6791db77a.webp`, alt: "Blühende Krokuswiese vor den schneebedeckten Gipfeln der Hohen Tauern im Virgental" },
       { src: `${IMG}/gallery-080a671c61.webp`, alt: "Hofkatzen auf dem Geländer vor dem Habererhof" },
     ],
   },
